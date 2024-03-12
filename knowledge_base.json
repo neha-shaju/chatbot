@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "how are you",
+      "answer": "fine"
+    },
+    {
+      "question": "what is your name",
+      "answer": "meta"
+    },
+    {
+      "question": "how old are you",
+      "answer": "1"
+    },
+    {
+      "question": "who found you",
+      "answer": "neha"
+    },
+    {
+      "question": "what is my birth date",
+      "answer": "aug 10"
+    },
+    {
+      "question": "what can you do for me",
+      "answer": " i can help you"
+    },
+    {
+      "question": "what",
+      "answer": "drawing"
+    },
+    {
+      "question": "what is the capital of india",
+      "answer": "delhi"
+    },
+    {
+      "question": "are you hungry",
+      "answer": "no.i dont eat,i am a robot"
+    },
+    {
+      "question": "i am ",
+      "answer": "nice too meet you"
+    },
+    {
+      "question": "bye",
+      "answer": "see you soon"
+    },
+    {
+      "question": "hey",
+      "answer": "hi"
+    },
+    {
+      "question": "my name]",
+      "answer": "neha"
+    },
+    {
+      "question": "do you know my name",
+      "answer": "neha"
+    }
+  ]
+}
